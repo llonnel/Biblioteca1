@@ -1,0 +1,71 @@
+body{
+    background-image:url(https://c.wallhere.com/photos/22/ff/rio_riodejaneiro_cube_livrariadatravessa-880926.jpg!d); ;
+}
+
+
+
+#main-container{
+	overflow:scroll;
+	margin: 50px auto;
+	width: 1100px;
+}
+
+table{
+	background-color: white;
+	text-align: left;
+	margin-left: -250px;
+	border-collapse: collapse;
+	width: 100%;
+	margin-left: 0px;
+	
+}
+
+th, td{
+	padding: 20px;
+}
+
+thead{
+	background-color: #246355;
+	border-bottom: solid 5px #0F362D;
+	color: white;
+}
+
+tr:nth-child(even){
+	background-color: #ddd;
+}
+
+tr:hover td{
+	background-color: #369681;
+	color: white;
+}
+
+/* .main-container{
+	overflow:scroll;
+	height:500px;
+	width:900px;	
+}
+
+table{
+	width:500px;
+    background-color:lightgray;
+}
+ */
+
+
+
+
+ .Estado{
+    color: green;
+}
+
+
+.ERROR{
+	color: red;
+	margin-top:20%;
+	margin-left:45%;
+	
+}
+
+
+
+/* YA */
